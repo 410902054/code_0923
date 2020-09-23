@@ -11,4 +11,5 @@ basic.forever(function () {
         # . . . #
         `)
     basic.showString("tortoise")
+    basic.showIcon(IconNames.Heart)
 })
